@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31196
     wikipedia: http://it.wikipedia.org/wiki/Romolo_Murri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25265#Il-cristianesimo-e-la-religione-di-domani
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
